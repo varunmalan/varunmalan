@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @varunmalan
 - 👀 I’m interested in Data Analytics and Business Analytics
-- 🌱 I’m currently learning Pyhton. 
-- 💞️ I’m looking to collaborate on various Projects related to E commerce of Finance. 
+- 🌱 I’m currently learning Python. 
+- 💞️ I’m looking to collaborate on various Projects related to E commerce. 
 - 📫 Reach Me out at varunmalan@gmail.com or 8003225487
   
 
